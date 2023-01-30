@@ -1,0 +1,243 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.box-1 {
+    font-size: 35px;
+    padding: 0 0 0 5px;
+    margin: 100px 0 0 80px;
+    border-left: 3px solid red;
+
+}
+
+.Stay-focused {
+    padding: 0 0 0 10px;
+}
+
+.part-1 {
+    display: flex;
+    margin-bottom: 5%;
+
+}
+
+.orange {
+    color: red;
+}
+
+.Hello-everyone {
+    padding: 0 0 0 80px;
+    margin: 30px 0 30px 0;
+}
+
+#button-1 {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin-left: 80px;
+    font-weight: 800;
+    color: white;
+
+}
+
+.Pic-1 img {
+    width: 63%;
+    margin: 33px 0 0 100px;
+}
+
+
+#miss {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+
+#box1 {
+    width: 30%;
+    background-color: rgba(0, 255, 255, 0.897);
+    margin-left: 5%;
+    border-radius: 30px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#box2 {
+    width: 30%;
+    background-color: rgb(78, 78, 131);
+    margin-left: 2%;
+    padding-right: 2%;
+    border-radius: 30px;
+    padding-left: 2%;
+}
+
+#box3 {
+    width: 30%;
+    background-color: rgb(187, 147, 147);
+    margin-left: 2%;
+    margin-right: 5%;
+    padding-right: 2%;
+    border-radius: 30px;
+    padding-left: 2%;
+}
+
+.pic img {
+    width: 150px;
+    margin-top: 30px;
+
+}
+
+.para {
+    margin: 0 0 20px 0;
+    padding-bottom: 30%;
+}
+
+#bimg1 {
+    background-image: url(shapes/shape-1.png);
+    background-position: 0 30%;
+    background-repeat: no-repeat;
+    background-size: 210px;
+    margin-left: 5%;
+}
+
+.img1 img {
+    width: 400px;
+    margin-left: 25%;
+}
+
+.para-1 {
+    margin-right: 5%;
+    margin-left: 13%;
+
+}
+
+#button-2 {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin-top: 100%;
+    font-weight: 800;
+    color: white;
+
+}
+
+.mar {
+    margin-bottom: 10%;
+}
+
+.hobbies img {
+    width: 400px;
+    padding: 0 200px 0 0;
+
+}
+
+.interestes {
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+#bimg2 {
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 90% 95%;
+    background-size: 195px;
+    padding-bottom: 100px;
+}
+
+.pic4 img {
+    width: 600px;
+
+    padding-left: 15%;
+}
+
+.contact {
+
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+#col {
+    color: red;
+}
+
+#ana {
+    background-color: orange;
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    margin-left: 5%;
+
+}
+
+#pla {
+    background-color: rgb(223, 179, 97);
+    text-align: center;
+    height: 300px;
+    width: 50%;
+}
+
+#des {
+    background-color: orangered;
+    text-align: center;
+    height: 300px;
+    width: 50%;
+    margin-right: 5%;
+}
+
+.button4 {
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin-top: 100%;
+    font-weight: 800;
+    color: white;
+
+}
+
+#firstpara {
+    padding-bottom: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+#secondlastpara {
+    padding-bottom: 9%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+
+#lpara {
+    padding-bottom: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.button5 {
+    text-decoration: none;
+    background-image: linear-gradient(white, blue);
+    padding: 20px 40px;
+    border-radius: 10px;
+    margin-top: 100%;
+    font-weight: 800;
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 25px 0 25px 0;
+}
